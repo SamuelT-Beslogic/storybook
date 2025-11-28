@@ -1,3 +1,9 @@
+## 10.2.0-alpha.2
+
+- Checklist: Fix how state changes are reported and drop some completion restrictions - [#33217](https://github.com/storybookjs/storybook/pull/33217), thanks @ghengeveld!
+- Solid: Add Solid to the list of supported frameworks for addon-vitest - [#33084](https://github.com/storybookjs/storybook/pull/33084), thanks @valentinpalkovic!
+- UI: Fix excessive height in TabbedArgsTable - [#33205](https://github.com/storybookjs/storybook/pull/33205), thanks @Sidnioulz!
+
 ## 10.2.0-alpha.1
 
 - Core: Improve globbing using dynamic CWD (REVERT) - [#33201](https://github.com/storybookjs/storybook/pull/33201), thanks @ndelangen!
